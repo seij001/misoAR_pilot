@@ -24,7 +24,7 @@ Install the Amazon CLI and use the commands below:
 3. Provide the access URL
 
 
-`export ACCESS_URL=s3://empatica-us-east-1-prod-data/v2/899/`
+`export ACCESS_URL=<PASTE access URL>`
 
 4. Provide local path you want to save files
 
